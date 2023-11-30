@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ContadorResponsive/static/css/main.e885df01.css",
+    "main.js": "/ContadorResponsive/static/js/main.9b5852f0.js",
+    "index.html": "/ContadorResponsive/index.html",
+    "main.e885df01.css.map": "/ContadorResponsive/static/css/main.e885df01.css.map",
+    "main.9b5852f0.js.map": "/ContadorResponsive/static/js/main.9b5852f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e885df01.css",
+    "static/js/main.9b5852f0.js"
+  ]
+}
